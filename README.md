@@ -1,3 +1,2 @@
 # Esmp_WP
-ToDo:
-- [X] Start webpage
+here is a esoly acceible website for the Esmp for downloads, info, and other things.
